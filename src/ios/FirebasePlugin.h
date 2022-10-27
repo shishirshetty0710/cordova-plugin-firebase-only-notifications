@@ -30,7 +30,7 @@
 // - (void)stopTrace:(CDVInvokedUrlCommand *)command;
 // - (void)forceCrashlytics:(CDVInvokedUrlCommand *)command;
 // - (void)setPerformanceCollectionEnabled:(CDVInvokedUrlCommand*)command;
-- (void)setAnalyticsCollectionEnabled:(CDVInvokedUrlCommand *)command;
+//- (void)setAnalyticsCollectionEnabled:(CDVInvokedUrlCommand *)command;
 - (void)clearAllNotifications:(CDVInvokedUrlCommand *)command;
 @property(nonatomic, copy) NSString *notificationCallbackId;
 @property(nonatomic, copy) NSString *tokenRefreshCallbackId;
