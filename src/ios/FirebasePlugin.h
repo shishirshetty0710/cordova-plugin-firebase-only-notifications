@@ -16,12 +16,12 @@
 - (void)onTokenRefresh:(CDVInvokedUrlCommand *)command;
 - (void)sendNotification:(NSDictionary *)userInfo;
 - (void)sendToken:(NSString *)token;
-- (void)logEvent:(CDVInvokedUrlCommand *)command;
+//- (void)logEvent:(CDVInvokedUrlCommand *)command;
 // - (void)logError:(CDVInvokedUrlCommand *)command;
 // - (void)setCrashlyticsUserId:(CDVInvokedUrlCommand*)command;
-- (void)setScreenName:(CDVInvokedUrlCommand *)command;
-- (void)setUserId:(CDVInvokedUrlCommand *)command;
-- (void)setUserProperty:(CDVInvokedUrlCommand *)command;
+//- (void)setScreenName:(CDVInvokedUrlCommand *)command;
+//- (void)setUserId:(CDVInvokedUrlCommand *)command;
+//- (void)setUserProperty:(CDVInvokedUrlCommand *)command;
 // - (void)activateFetched:(CDVInvokedUrlCommand *)command;
 // - (void)fetch:(CDVInvokedUrlCommand *)command;
 // - (void)getValue:(CDVInvokedUrlCommand *)command;
