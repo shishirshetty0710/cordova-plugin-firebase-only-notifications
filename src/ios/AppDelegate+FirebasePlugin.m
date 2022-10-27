@@ -4,7 +4,7 @@
 // @import Fabric;
 // @import Crashlytics;
 @import FirebaseInstanceID;
-@import FirebaseAnalytics;
+//@import FirebaseAnalytics;
 // @import FirebaseRemoteConfig;
 // @import FirebaseAuth;
 #import <objc/runtime.h>
